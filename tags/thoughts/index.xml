@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Weston</title>
+    <link>https://weston.ml/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Weston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://weston.ml/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What should I be thinking about?</title>
+      <link>https://weston.ml/post/thinking-about/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/thinking-about/</guid>
+      <description>What should I be thinking? As an IT professional, what is one question you should be regularly asking yourself?
+&amp;ldquo;What can I do that means I aren&amp;rsquo;t required?&amp;rdquo;
+If you can remove yourself, you have made a change for the better.
+You always want to being thinking about Elimination, Simplification, Automation, and Documentation. And that’s the beauty of IT, all these things are possible and often easy.
+You want to free up your time to think about the next big thing, rather than spending your time completing tasks.</description>
+    </item>
+    
+  </channel>
+</rss>

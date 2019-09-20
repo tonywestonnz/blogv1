@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://weston.ml/post/backups/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/post/thinking-about/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/post/traffic-lights/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/search/placeholder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/top/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/tags/backups/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/post/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/search/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/tags/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/tags/thoughts/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/categories/tips/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/top/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

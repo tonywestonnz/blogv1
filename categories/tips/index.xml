@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Weston</title>
+    <link>https://weston.ml/categories/tips/</link>
+    <description>Recent content in Tips on Weston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://weston.ml/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backups are number one</title>
+      <link>https://weston.ml/post/backups/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/backups/</guid>
+      <description>Backups are number one Backups are arguably the single most important IT process.
+HA, Redunancy, Change Management, I.T. Governance are all important, but as we know, sh*t happens, and good backups are your last line of protection.
+Google, who are often thought of the leaders in data redundancy and availability had to resort to tape backups to retore Gmail data, after a software bug deleted multiple copies of redundant data.</description>
+    </item>
+    
+    <item>
+      <title>What should I be thinking about?</title>
+      <link>https://weston.ml/post/thinking-about/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/thinking-about/</guid>
+      <description>What should I be thinking? As an IT professional, what is one question you should be regularly asking yourself?
+&amp;ldquo;What can I do that means I aren&amp;rsquo;t required?&amp;rdquo;
+If you can remove yourself, you have made a change for the better.
+You always want to being thinking about Elimination, Simplification, Automation, and Documentation. And that’s the beauty of IT, all these things are possible and often easy.
+You want to free up your time to think about the next big thing, rather than spending your time completing tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
