@@ -22,17 +22,5 @@ HA, Redunancy, Change Management, I.T. Governance are all important, but as we k
 Google, who are often thought of the leaders in data redundancy and availability had to resort to tape backups to retore Gmail data, after a software bug deleted multiple copies of redundant data.</description>
     </item>
     
-    <item>
-      <title>What should I be thinking about?</title>
-      <link>https://weston.ml/post/thinking-about/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://weston.ml/post/thinking-about/</guid>
-      <description>What should I be thinking? As an IT professional, what is one question you should be regularly asking yourself?
-&amp;ldquo;What changes can I do that means I am not required?&amp;rdquo;
-If you can remove yourself, you have made a change for the better.
-You always want to being thinking about Elimination, Simplification, Automation, and Documentation. And that’s the beauty of IT, all these things are possible and often easy.</description>
-    </item>
-    
   </channel>
 </rss>

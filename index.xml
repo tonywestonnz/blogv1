@@ -28,9 +28,10 @@ Google, who are often thought of the leaders in data redundancy and availability
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://weston.ml/post/ssl-quantum-computers/</guid>
-      <description>Quantum computing and future of encryption HTTPS encryption is based on the premise that the product to two large prime numbers is very hard to factorise and obtain the original prime factors.
+      <description>HTTPS encryption is based on the premise that the product to two large prime numbers is very hard to factorise and obtain the original prime factors.
 With a standard desktop computer it is estimated factoring a 2048 bit key, a common bit length for SSL/TLS, would take a little over 6.4 quadrillion years. A long time. Pretty safe.
-Quantum Computing however will change that.</description>
+Quantum Computing however will change that.
+HTTPS is protecting most online activity. If it were to break it would be significant.</description>
     </item>
     
     <item>
@@ -39,10 +40,11 @@ Quantum Computing however will change that.</description>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://weston.ml/post/thinking-about/</guid>
-      <description>What should I be thinking? As an IT professional, what is one question you should be regularly asking yourself?
+      <description>As an IT professional, what is one question you should be regularly asking yourself?
 &amp;ldquo;What changes can I do that means I am not required?&amp;rdquo;
 If you can remove yourself, you have made a change for the better.
-You always want to being thinking about Elimination, Simplification, Automation, and Documentation. And that’s the beauty of IT, all these things are possible and often easy.</description>
+You always want to being thinking about Elimination, Simplification, Automation, and Documentation. And that’s the beauty of IT, all these things are possible and often easy.
+You want to free up your time to think about the next big thing, rather than spending your time completing tasks.</description>
     </item>
     
     <item>
@@ -51,7 +53,7 @@ You always want to being thinking about Elimination, Simplification, Automation,
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://weston.ml/post/traffic-lights/</guid>
-      <description>Traffic Lights lead to incompetence Traffic lights serve a purpose. Maybe. In certain situations. But like lots of things - have they gone too far? What’s wrong with a round-a-bout?
+      <description>Traffic Lights lead to incompetence Traffic lights serve a purpose in certain situations. But like lots of things - have they gone too far? What’s wrong with a round-a-bout?
 On the occasion there has been a large scale power outage and the traffic lights are out, it would appear that traffic flows much freer, there are less accidents, and all-round it’s a more pleasent experience. In fact there have been several studies that have shown removing traffic lights improves traffic flow and reduces accidents.</description>
     </item>
     
