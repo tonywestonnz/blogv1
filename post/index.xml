@@ -23,6 +23,17 @@ Google, who are often thought of the leaders in data redundancy and availability
     </item>
     
     <item>
+      <title>Quantum computing and the future of encryption</title>
+      <link>https://weston.ml/post/ssl-quantum-computers/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/ssl-quantum-computers/</guid>
+      <description>Quantum computing and future of encryption HTTPS encryption is based on the premise that the product to two large prime numbers is very hard to factorise and obtain the original prime factors.
+With a standard desktop computer it is estimated factoring a 2048 bit key, a common bit length for SSL/TLS, would take a little over 6.4 quadrillion years. A long time. Pretty safe.
+Quantum Computing however will change that.</description>
+    </item>
+    
+    <item>
       <title>What should I be thinking about?</title>
       <link>https://weston.ml/post/thinking-about/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
