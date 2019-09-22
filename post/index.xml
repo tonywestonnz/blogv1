@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Weston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://weston.ml/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantum computing and the future of encryption</title>
+      <link>https://weston.ml/post/ssl-quantum-computers/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/ssl-quantum-computers/</guid>
+      <description>HTTPS encryption is based on the premise that the product to two large prime numbers is very hard to factorise and obtain the original prime factors.
+With a standard desktop computer it is estimated factoring a 2048 bit key, a common bit length for SSL/TLS, would take a little over 6.4 quadrillion years. A long time. Pretty safe.
+Quantum Computing however will change that.
+HTTPS is protecting most online activity. If it were to break it would be significant.</description>
+    </item>
     
     <item>
       <title>Backups are number one</title>
@@ -20,18 +32,6 @@
       <description>Backups are number one Backups are arguably the single most important IT process.
 HA, Redunancy, Change Management, I.T. Governance are all important, but as we know, sh*t happens, and good backups are your last line of protection.
 Google, who are often thought of the leaders in data redundancy and availability had to resort to tape backups to retore Gmail data, after a software bug deleted multiple copies of redundant data.</description>
-    </item>
-    
-    <item>
-      <title>Quantum computing and the future of encryption</title>
-      <link>https://weston.ml/post/ssl-quantum-computers/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://weston.ml/post/ssl-quantum-computers/</guid>
-      <description>HTTPS encryption is based on the premise that the product to two large prime numbers is very hard to factorise and obtain the original prime factors.
-With a standard desktop computer it is estimated factoring a 2048 bit key, a common bit length for SSL/TLS, would take a little over 6.4 quadrillion years. A long time. Pretty safe.
-Quantum Computing however will change that.
-HTTPS is protecting most online activity. If it were to break it would be significant.</description>
     </item>
     
     <item>
