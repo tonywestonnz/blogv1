@@ -6,10 +6,21 @@
     <description>Recent content on Weston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://weston.ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zero Trust In Your Enterprise</title>
+      <link>https://weston.ml/post/zero-trust/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/zero-trust/</guid>
+      <description>The Zero Trust security model, moves away from the idea that if you are inside the corporate network on a corporate device you can be trusted.
+Instead its presents a security framework in which users and devices should not be trusted regardless of whether they are inside or outside the corporate network.
+Every access should be validated. Zero trust model has become particularly popular as corporate data no resides both inside and outside the corporate network, including multiple cloud providers, SaaS providers, and increasingly users are working remotely and using their own devices.</description>
+    </item>
     
     <item>
       <title>Quantum computing and the future of encryption</title>

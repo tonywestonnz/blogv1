@@ -4,16 +4,21 @@
   
   <url>
     <loc>https://weston.ml/post/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weston.ml/post/ssl-quantum-computers/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weston.ml/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/post/zero-trust/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weston.ml/post/ssl-quantum-computers/</loc>
     <lastmod>2019-09-21T00:00:00+00:00</lastmod>
   </url>
   
