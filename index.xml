@@ -6,10 +6,21 @@
     <description>Recent content on Weston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://weston.ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure NZ Region</title>
+      <link>https://weston.ml/post/azure-nz/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://weston.ml/post/azure-nz/</guid>
+      <description>With the recent Overseas Investment Office approval, Microsoft is getting closer to deploying Azure datacentres in New Zealand. The NZ Azure Region is likely still a year or two away from going live, but is keenly anticipated.
+The new Azure footprint here is rumoured to be two new physical datacentre builds both in Auckland.
+A couple of early cornerstone business clients have committed to NZ Azure including Fonterra, not to mention whatever the government has promised.</description>
+    </item>
     
     <item>
       <title>Zero Trust In Your Enterprise</title>
